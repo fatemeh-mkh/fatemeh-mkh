@@ -22,12 +22,12 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=fatemeh-mkh&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://streak-stats.demolab.com?user=fatemeh-mkh&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatemeh-mkh&theme=tokyonight" width="45%" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemeh-mkh&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
