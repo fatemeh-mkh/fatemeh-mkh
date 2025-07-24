@@ -12,11 +12,10 @@
   <li> Open to collaborations on open-source and academic projects</li>
 </ul>
 
-<h3 align="left">👀 Profile Views</h3>
+### 👁‍🗨 Profile Views
 
-<div align="left" style="transform: scale(3); transform-origin: left;">
-  <img src="https://komarev.com/ghpvc/?username=fatemeh-mkh&color=a349a4&style=flat-square" alt="fatemeh-mkh" />
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=fatemeh-mkh&color=a349a4&style=for-the-badge)
+
 
 
 ---
