@@ -1,5 +1,5 @@
 <h1 align="center">Hi there ✨ I'm Fatemeh Mokhtari</h1>
-<p align="center">
+<!-- <p align="center"> -->
 🌱 A dedicated Java Backend Developer from Iran,<br> passionate about clean code and real-world problem solving  
 </p>
 
