@@ -6,12 +6,12 @@
 
 ---
 
-### About Me
-<ul>
-  <li>Computer Engineering undergraduate at the University of Isfahan</li>
-  <li>Focused on backend development with a strong interest in Spring Boot and scalable API design</li>
-  <li>Open to collaborations on open-source and academic projects</li>
-</ul>
+###  Contact Me
+
+<a href="mailto:fatem.mokhtari@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>  
+<a href="https://www.linkedin.com/in/fatemeh-mokhtari-91035929b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  
+<a href="https://t.me/Fatemeh_Mkh7" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+
 
 ### Contact Me
 <p align="center"> <a href="mailto:fatem.mokhtari@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://www.linkedin.com/in/fatemeh-mokhtari-91035929b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://t.me/Fatemeh_Mkh7" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
