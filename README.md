@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Fatemeh Mokhtari</h1>
 <p align="center">
-  🌱 A passionate Java Backend Developer from Iran<br>
-  💻 Learning, building, and growing one line of code at a time
+🌱 A dedicated Java Backend Developer from Iran,<br> passionate about clean code and real-world problem solving  
+
 </p>
 
 ---
