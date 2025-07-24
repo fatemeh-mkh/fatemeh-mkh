@@ -22,14 +22,14 @@
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatemeh-mkh&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatemeh-mkh&theme=tokyonight" width="45%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fatemeh-mkh&show_icons=true&theme=tokyonight" width="60%" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemeh-mkh&layout=compact&theme=tokyonight" width="45%" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatemeh-mkh&theme=tokyonight" width="60%" />
 </p>
+
 
 ---
 
