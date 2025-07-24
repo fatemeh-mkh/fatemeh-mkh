@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Fatemeh Mokhtari</h1>
+<h1 align="center">Hi there ✨ I'm Fatemeh Mokhtari</h1>
 <p align="center">
 🌱 A dedicated Java Backend Developer from Iran,<br> passionate about clean code and real-world problem solving  
 
@@ -6,16 +6,14 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 Computer Engineering undergraduate, University of Isfahan
-- 🔭 Currently working on **Spring Boot APIs** & exploring **System Design**
-- 🌱 Learning **Spring Security**, **PostgreSQL**, and advanced **Java**
-- 🤝 Always open to collaboration on **open-source or academic team projects**
-- 💬 Ask me about **Java**, **Spring Boot**, **REST APIs**, **Git**
-- 📬 Reach out via [Email](mailto:fatem.mokhtari@yahoo.com) or [LinkedIn](https://www.linkedin.com/in/fatemeh-mokhtari-91035929b)
+ About Me
+<ul>
+  <li>Computer Engineering undergraduate at the University of Isfahan</li>
+  <li>Focused on backend development with a strong interest in Spring Boot and scalable API design</li>
+  <li>Open to collaborations on open-source and academic projects</li>
+  <li>Feel free to connect via Email or LinkedIn</li>
+</ul>
 
-
----
 
 ### 🛠️ Tech Stack
 
