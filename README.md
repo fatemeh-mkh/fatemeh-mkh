@@ -11,9 +11,11 @@
   <li>Computer Engineering undergraduate at the University of Isfahan</li>
   <li>Focused on backend development with a strong interest in Spring Boot and scalable API design</li>
   <li>Open to collaborations on open-source and academic projects</li>
-  <li>Feel free to connect via Email or LinkedIn</li>
 </ul>
 
+### Contact Me
+<p align="center"> <a href="mailto:fatem.mokhtari@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://www.linkedin.com/in/fatemeh-mokhtari-91035929b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://t.me/Fatemeh_Mkh7" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+</p>
 
 ### 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
@@ -34,12 +36,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatemeh-mkh&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://streak-stats.demolab.com?user=fatemeh-mkh&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fatemeh-mkh&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=fatemeh-mkh&theme=tokyonight" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemeh-mkh&layout=compact&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemeh-mkh&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
 ---
