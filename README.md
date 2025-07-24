@@ -10,11 +10,13 @@
   <li> Focused on backend development with a strong interest in Spring Boot and scalable API design</li>
   <li> Currently expanding my skills in Spring Security, PostgreSQL, and advanced Java concepts</li>
   <li> Open to collaborations on open-source and academic projects</li>
-
- ![Profile Views](https://komarev.com/ghpvc/?username=fatemeh-mkh&color=a349a4&style=flat-square)
-
 </ul>
 
+<h3 align="left">👀 Profile Views</h3>
+
+<div align="left" style="margin-left: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=fatemeh-mkh&color=a349a4&style=flat-square" alt="fatemeh-mkh" height="40" />
+</div>
 
 ---
 ### 🛠 Tech Stack
