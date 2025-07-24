@@ -1,16 +1,7 @@
 <h1 align="center">Hi there ✨ I'm Fatemeh Mokhtari</h1>
 <p align="center">
 🌱 A dedicated Java Backend Developer from Iran,<br> passionate about clean code and real-world problem solving  
-
 </p>
-
----
-###  Contact Me
-
-<a href="mailto:fatem.mokhtari@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/fatemeh-mokhtari-91035929b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://t.me/Fatemeh_Mkh7" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-
 
 ---
 ### 🛠️ Tech Stack
@@ -48,14 +39,10 @@
 - 🌍 Interested in tech communities, AI, and clean code!
 
 ---
+###  Contact Me
 
-### 🌐 Let's Connect
+<a href="mailto:fatem.mokhtari@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/fatemeh-mokhtari-91035929b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://t.me/Fatemeh_Mkh7" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/fatemeh-mokhtari-91035929b" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+
