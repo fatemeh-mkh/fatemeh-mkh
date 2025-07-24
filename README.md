@@ -14,7 +14,7 @@
 
 <h3 align="left">👀 Profile Views</h3>
 
-<div align="left" style="transform: scale(1.4); transform-origin: left;">
+<div align="left" style="transform: scale(2); transform-origin: left;">
   <img src="https://komarev.com/ghpvc/?username=fatemeh-mkh&color=a349a4&style=flat-square" alt="fatemeh-mkh" />
 </div>
 
