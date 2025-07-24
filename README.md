@@ -11,9 +11,8 @@
   <li> Currently expanding my skills in Spring Security, PostgreSQL, and advanced Java concepts</li>
   <li> Open to collaborations on open-source and academic projects</li>
 </ul>
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fatemeh-mkh" alt="visitor badge"/>
-</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=fatemeh-mkh&color=a349a4&style=flat-square)
 
 
 
