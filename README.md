@@ -11,6 +11,8 @@
   <li> Currently expanding my skills in Spring Security, PostgreSQL, and advanced Java concepts</li>
   <li> Open to collaborations on open-source and academic projects</li>
 </ul>
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=fatemeh-mkh)
+
 
 
 ---
