@@ -16,7 +16,6 @@
 
 
 ### 🛠️ Tech Stack
-
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat-square&logo=postgresql&logoColor=white)
@@ -26,6 +25,9 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
+
 
 ---
 
@@ -33,8 +35,17 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fatemeh-mkh&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://streak-stats.demolab.com?user=fatemeh-mkh&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="47%" />
+  <img src="https://streak-stats.demolab.com?user=fatemeh-mkh&theme=tokyonight" width="47%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemeh-mkh&layout=compact&theme=tokyonight" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fatemeh-mkh&theme=tokyonight&row=1&column=6" />
+</p>
+
 
 ---
 
