@@ -1,10 +1,10 @@
 <h1 align="center">Hi there ✨ I'm Fatemeh Mokhtari</h1>
-<!-- <p align="center"> -->
+<p align="center">
 🌱 A dedicated Java Backend Developer from Iran,<br> passionate about clean code and real-world problem solving  
 </p>
 
 ---
-###  About me
+### 🧠 About me
 <ul> 
   <li> Computer Engineering undergraduate at the University of Isfahan</li>
   <li> Focused on backend development with a strong interest in Spring Boot and scalable API design</li>
@@ -39,14 +39,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatemeh-mkh&theme=tokyonight" width="60%" />
 </p>
-
-
----
-
-### 🧠 Fun Facts
-- 🔥 I love solving real-world problems using technology
-- 🧩 Learning new things and improving my coding skills every day
-- 🌍 Interested in tech communities, AI, and clean code!
 
 ---
 ###  Contact Me
